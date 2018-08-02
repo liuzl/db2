@@ -1,6 +1,6 @@
 # 在Mac系统安装DB2的python库ibm_db
 
-## 安装
+## 安装
 ```sh
 wget https://files.pythonhosted.org/packages/f8/6f/5f8186cb31021409235a948be5e29d77761ef92747a101360003747c4105/ibm_db-2.0.8.tar.gz
 tar -xvzf ibm_db-2.0.8.tar.gz
